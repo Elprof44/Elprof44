@@ -1,3 +1,16 @@
+### []()
+Hello, I'm AGBO Martin, a Full-Stack Developer with expertise in Python, IoT, and Artificial Intelligence.
+
+Since I delved into the programming world, my curiosity and passion for innovation have only grown. I embarked on this tech journey with a keen interest in Python, discovering the power of creating REST APIs and robust backends using frameworks like Django, Flask, and handling SQL and NoSQL databases such as MySQL, PostgreSQL, and Firebase.
+
+My appetite for learning led me to explore mobile app development with Flutter, delving into a different facet of technology. However, my quest didn't stop there. I immersed myself in the fascinating realm of the Internet of Things (IoT), using Python, MicroPython, and C++ to program microcontrollers like ESP32 and Raspberry Pi for home automation and IoT solutions.
+
+This exploration allowed me to bring innovative ideas to life in the physical world. Yet, my love for AI is the common thread connecting all my technological passions. I've engaged in AI, using and creating machine learning and deep learning models, working with frameworks like Hugging Face. AI, for me, is a means to solve complex problems and create intelligent systems that can change the world.
+
+At the moment, I might be a relatively unknown name, but I'm enthusiastic about sharing my passion and knowledge with the world. I'm poised, ready to showcase what I've learned and contribute to the future of technology and artificial intelligence.
+
+Join me in this exciting journey, where continuous learning, creativity, and innovation are the keys to everything I do. Together, we can push the boundaries of what technology can achieve.
+
 # 💫 About Me:
 🔭 **I’m currently working on:**<br>- Developing RESTful APIs<br>- Web development projects<br>- Exploring cooking recipes<br>- Building recent apps with Flutter<br>- Creating new applications<br>- Developing IoT applications<br>- Designing a chat app using LMMS API<br>- And more...<br><br>👯 **I’m looking to collaborate on:**<br>- Open to collaborative projects and ideas.<br><br>🤝 **I’m looking for help with:**<br>- Seeking assistance on challenging aspects of my current projects.<br><br>🌱 **I’m currently learning:**<br>- Flutter for cross-platform app development<br>- Django for web development<br>- Flask for lightweight web applications<br>- AI (Artificial Intelligence)<br>- IoT (Internet of Things)<br>- LMMS <br><br>💬 **Ask me about:**<br>- Anything related to my current projects or areas of expertise.<br><br>⚡ **Fun fact:**<br>-i like to contribute on openSources project
 
